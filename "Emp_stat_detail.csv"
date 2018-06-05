@@ -1,0 +1,19 @@
+ EMPSTATD		Employment status [detailed version]
+0	,	N/A
+		In Labor Force
+		Employed
+10	,	At work
+11	,	At work  public emerg
+12	,	Has job  not working
+13	,	Armed forces
+14	,	Armed forces--at work
+15	,	Armed forces--not at work but with job
+20	,	Unemployed
+21	,	Unemp  exper worker
+22	,	Unemp  new worker
+30	,	Not in Labor Force
+31	,	NILF  housework
+32	,	NILF  unable to work
+33	,	NILF  school
+34	,	NILF  othe
+

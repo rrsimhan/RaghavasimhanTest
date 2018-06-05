@@ -1,0 +1,71 @@
+HIGRADED		Highest grade of schooling [detailed version]			
+0	,	N/A			
+10	,	None			
+11	,	Did not finish nurs sch			
+12	,	Attending nurs sch			
+20	,	Nursery school			
+21	,	Did not finish kindergart			
+22	,	Attending kindergarten			
+30	,	Kindergarten			
+31	,	Did not finish 1st grade			
+32	,	Attending 1st grade			
+40	,	1st grade			
+41	,	Did not finish 2nd grade			
+42	,	Attending 2nd grade			
+50	,	2nd grade			
+51	,	Did not finish 3rd grade			
+52	,	Attending 3rd grade			
+60	,	3rd grade			
+61	,	Did not finish 4th grade			
+62	,	Attending 4th grade			
+70	,	4th grade			
+71	,	Did not finish 5th grade			
+72	,	Attending 5th grade			
+80	,	5th grade			
+81	,	Did not finish 6th grade			
+82	,	Attending 6th grade			
+90	,	6th grade			
+91	,	Did not finish 7th grade			
+92	,	Attending 7th grade			
+100	,	7th grade			
+101	,	Did not finish 8th grade			
+102	,	Attending 8th grade			
+110	,	8th grade			
+111	,	Did not finish 9th grade			
+112	,	Attending 9th grade			
+120	,	9th grade			
+121	,	Did not finish 10th grade			
+122	,	Attending 10th grade			
+130	,	10th grade			
+131	,	Did not finish 11th grade			
+132	,	Attending 11th grade			
+140	,	11th grade			
+141	,	Did not finish 12th grade			
+142	,	Attending 12th grade			
+150	,	12th grade			
+151	,	Did not finish 1st year college			
+152	,	Attending 1st yesr college			
+160	,	1st year of college			
+161	,	Did not finish 2nd year of college			
+162	,	Attending 2nd year of college			
+170	,	2nd year of college			
+171	,	Did not finish 3rd year of college			
+172	,	Attending 3rd year of college			
+180	,	3rd year of college			
+181	,	Did not finish 4th year of college			
+182	,	Attending 4th year of college			
+190	,	4th year of college			
+191	,	Did not finish 5th year of college			
+192	,	Attending 5th year of college			
+200	,	5th year or more of college (1940			 50)
+201	,	Did not finish 6th year of college			
+202	,	Attending 6th year of college			
+210	,	6th year or more of college (1960			70)
+211	,	Did not finish 7th year of college			
+212	,	Attending 7th year of college			
+220	,	7th year of college			
+221	,	Did not finish 8th year of college			
+222	,	Attending 8th year of college			
+230	,	8th year or more of college			
+999	,	Missing			
+
